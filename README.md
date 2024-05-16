@@ -1,2 +1,2 @@
 ## SnailNet
-Github Pages for Snail IDE
+Bacically Github Pages for Snail IDE
