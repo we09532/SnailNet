@@ -1,9 +1,21 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
-    <meta http-equiv="refresh" content="0; url='https://snail-net.github.io/'" />
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Redirecting...</title>
+    <script>
+        // Redirect to the previous page if available
+        var previousUrl = document.referrer;
+        if (previousUrl) {
+            window.location.href = previousUrl;
+        } else {
+            // Fallback URL if no referrer is available
+            window.location.href = "https://snail-net.github.io/"; // Change this to your fallback URL
+        }
+    </script>
 </head>
 <body>
-    <p>You will be redirected to example.com soon!</p>
+    <p>If you are not redirected automatically, follow this <a href="#" onclick="window.history.back();">link to go back</a>.</p>
 </body>
 </html>
