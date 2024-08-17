@@ -1,6 +1,6 @@
 
 # New Respository
-Go to [https://github.com/Snail-Net.github.io](https://github.com/Snail-Net.github.io)
+Go to [[https://github.com/Snail-Net.github.io](https://github.com/Snail-Net/Snail-Net.github.io)]
 
 
 
