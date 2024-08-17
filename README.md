@@ -1,6 +1,6 @@
 
 # New Respository
-Go to [https://github.com/we09532/SnailNet/blob/main/Developers.md](https://github.com/we09532/SnailNet/blob/main/Developers.md)
+Go to [https://github.com/Snail-Net.github.io](https://github.com/Snail-Net.github.io))
 
 
 
